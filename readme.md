@@ -1,4 +1,4 @@
-# Computer Science Curriculum
+# Computer Science Curriculum For Eli
 
 Computer Science fundamentals are important because it's better to understand something based on [first, basic principles](https://www.youtube.com/watch?v=L-s_3b5fRd8&t=22m38s). Before you dive in, you should know a few things:
 
